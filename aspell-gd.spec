@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Scottish Gaelic dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S³ownik szklocki gaelicki (lista s³ów) dla aspella.
+S³ownik (lista s³ów) szklocki gaelicki dla aspella.
 
 %prep
 %setup -q -n aspell5-gd-%{version}-%{subv}
