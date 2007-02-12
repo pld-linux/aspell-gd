@@ -1,5 +1,5 @@
 Summary:	Scottish Gaelic dictionary for aspell
-Summary(pl.UTF-8):   Słownik szkocki gaelicki dla aspella
+Summary(pl.UTF-8):	Słownik szkocki gaelicki dla aspella
 Name:		aspell-gd
 Version:	0.1.1
 %define	subv	1
