@@ -1,5 +1,5 @@
 Summary:	Scottish Gaelic dictionary for aspell
-Summary(pl):	S≥ownik szkocki gaelicki dla aspella
+Summary(pl.UTF-8):   S≈Çownik szkocki gaelicki dla aspella
 Name:		aspell-gd
 Version:	0.1.1
 %define	subv	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Scottish Gaelic dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik szklocki gaelicki (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik szklocki gaelicki (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-gd-%{version}-%{subv}
